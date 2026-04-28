@@ -22,7 +22,8 @@ Power BI Sales Dashboard (2024) that highlights key metrics like profit, trends 
 
 
 
-<img width="857" height="479" alt="Capture" src="https://github.com/user-attachments/assets/34cfbadc-5104-45fa-a214-6158dd3c13d5" />
+<img width="867" height="490" alt="Capture" src="https://github.com/user-attachments/assets/0e52470f-5b97-4b11-99b5-9f4afc924a04" />
+
 
 
 
