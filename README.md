@@ -21,7 +21,8 @@ Power BI Sales Dashboard (2024) that highlights key metrics like profit, trends 
 •	Enhanced Data Visualization & Storytelling
 
 
-<img width="861" height="491" alt="Capture" src="https://github.com/user-attachments/assets/3805e114-eee6-4fcb-a394-30ebfbf76021" />
+
+<img width="857" height="479" alt="Capture" src="https://github.com/user-attachments/assets/34cfbadc-5104-45fa-a214-6158dd3c13d5" />
 
 
 
